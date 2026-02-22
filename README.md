@@ -1,4 +1,4 @@
-# ChromoSchedule 🧬
+# ChromoSchedule 
 ### Automated University Timetable Generator
 **Genetic Algorithm + Fuzzy Logic | FastAPI + React**
 
